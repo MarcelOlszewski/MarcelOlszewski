@@ -3,7 +3,7 @@
 <img align="left" width="40px" src="./assets/img/pablo-34.gif" />
 <h1>Hello 👋, I'm (Marcel) mrcl. 🚀</h1>
 <img align="right" width="25px" src="./assets/img/pablo-28.gif" />
-<h3>:green_heart: A passionate frontend developer :green_heart:</h3>
+<h3>:green_heart: A passionate frontend and backend developer :green_heart:</h3>
 
 
 <div align="center"> 
@@ -26,7 +26,7 @@
 <br />
 </span><span align="center">
 <br />
- ✨ I’m 31 years old frontend developer from Poland ⬜🟥. My main goal is get job as junior frontend dev. I like programming and try to commit everyday! :memo:
+ ✨ I’m 31 years old frontend and backend developer from Poland ⬜🟥. My main goal is to get job as Microsoft dev. I like programming and try to commit everyday! :memo:
 <br />
   
 </span><span align="center">

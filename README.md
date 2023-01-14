@@ -34,8 +34,7 @@
   
   
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelolszewski&show_icons=true&hide_border=true&theme=dracula)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcelolszewski&theme=dracula&border=DD272700)](https://git.io/streak-stats)
+
 </div>
 
 ## My stack
